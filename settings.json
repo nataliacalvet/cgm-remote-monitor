@@ -1,4 +1,4 @@
-{
-  "enable": ["careportal", "nsclient"],
-  "defaultFeatures": true
+"nsclient": {
+    "version": "v3",
+    "enabled": true
 }
